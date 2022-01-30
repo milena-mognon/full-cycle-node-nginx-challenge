@@ -1,6 +1,6 @@
 # Desafio Docker - Full Cycle
 
-A aplicação consiste em criar um servidor com Node e deve ter um endpoint GET / que será o responsável por trazer uma listagem das pessas cadastradas.
+A aplicação consiste em criar um servidor com Node e deve ter um endpoint GET / que será o responsável por trazer uma listagem das pessoas cadastradas.
 
 O servidor estará rodando na porta 3333, mas o nginx fará com que seja acessado pela porta 8080.
 
